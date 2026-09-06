@@ -17,8 +17,7 @@ enunciado. El logo y la ilustración de la portada también son los oficiales de
 
 El catálogo quedó con los 7 productos que el documento detalla con ficha completa (foto,
 precio, stock y descripción): Manzanas Fuji, Naranjas Valencia, Plátanos Cavendish, Zanahorias
-Orgánicas, Espinacas Frescas, Pimientos Tricolores y Miel Orgánica. Por eso también saqué el
-filtro de "Productos Lácteos": sin Leche Entera en el catálogo, esa categoría quedaba vacía.
+Orgánicas, Espinacas Frescas, Pimientos Tricolores y Miel Orgánica.
 
 ## Paleta y tipografía (según el caso)
 
@@ -37,5 +36,4 @@ HuertoHogar en vez de los colores azules por defecto.
 
 - Poner el link real del mapa embebido (Google My Maps) en `nosotros.html` — por ahora tiene
   un `src` de ejemplo que no apunta a nada.
-- Ver con el profe si hay que sumar backend real (API + base de datos) para que los
-  requerimientos de "más alcance" cuenten.
+
