@@ -37,7 +37,6 @@ function guardarPerfil(evento) {
   return false;
 }
 
-/** Historial de compras: pedidos anteriores del usuario, con opción de repetir pedido */
 function renderizarHistorialCompras(correoUsuario) {
   const contenedor = document.getElementById("historial-compras");
   if (!contenedor) return;
