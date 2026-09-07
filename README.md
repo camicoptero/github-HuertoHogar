@@ -1,24 +1,21 @@
-# HuertoHogar 
-
+# Caso que trabajamos
 Este es nuestro  proyecto para el ramo de Fullstack 2, caso Forma A: una tienda online de
 productos frescos del campo, llamada **HuertoHogar**. La idea es que un usuario pueda
 registrarse, ver el catálogo, agregar productos al carrito, confirmar un pedido y hacerle
 seguimiento hasta que llega a su casa.
 
-Por ahora está hecho con HTML + Bootstrap + JavaScript puro, guardando todo en `localStorage`
-del navegador (usuarios, carrito, pedidos, reseñas). No hay backend todavía 
+Por ahora está hecho con HTML + Bootstrap + JavaScript , guardando todo en `localStorage`
+del navegador (usuarios,carrito,pedidos,reseñas). No hay backend todavía 
 
 
 ## Sobre las imágenes
 
 Las fotos de manzanas, naranjas, plátanos, zanahorias, espinacas, pimientos y la miel son las
-mismas que vienen en el PDF del caso (Forma A), así que el catálogo se ve tal cual lo pide el
-enunciado. El logo y la ilustración de la portada también son los oficiales del caso.
+mismas que vienen en el PDF del caso (Forma A) . El logo y la ilustración de la portada también son los oficiales del caso.
 
 El catálogo quedó con los 7 productos que el documento detalla con ficha completa (foto,
 precio, stock y descripción): Manzanas Fuji, Naranjas Valencia, Plátanos Cavendish, Zanahorias
-Orgánicas, Espinacas Frescas, Pimientos Tricolores y Miel Orgánica. Por eso también saqué el
-filtro de "Productos Lácteos": sin Leche Entera en el catálogo, esa categoría quedaba vacía.
+Orgánicas, Espinacas Frescas, Pimientos Tricolores y Miel Orgánica.
 
 ## Paleta y tipografía (según el caso)
 
@@ -33,7 +30,7 @@ Estos colores están puestos como variables CSS en `style.css` y pisan las varia
 Bootstrap, para que los componentes (botones, navbar, badges) salgan con la identidad de
 HuertoHogar en vez de los colores azules por defecto.
 
-## Pendientes
+## Me falto 
 
 - Poner el link real del mapa embebido (Google My Maps) en `nosotros.html` — por ahora tiene
   un `src` de ejemplo que no apunta a nada.
