@@ -1,11 +1,18 @@
+<<<<<<< HEAD
 # HuertoHogar 🥕
 
 Este es mi proyecto para el ramo de Fullstack (DSY1104), caso Forma A: una tienda online de
+=======
+# HuertoHogar 
+
+Este es nuestro proyecto para el ramo de Fullstack 2, caso Forma A: una tienda online de
+>>>>>>> ee8fc079e15c67823c4f2d8e32e73e20e621dc5c
 productos frescos del campo, llamada **HuertoHogar**. La idea es que un usuario pueda
 registrarse, ver el catálogo, agregar productos al carrito, confirmar un pedido y hacerle
 seguimiento hasta que llega a su casa.
 
 Por ahora está hecho con HTML + Bootstrap + JavaScript puro, guardando todo en `localStorage`
+<<<<<<< HEAD
 del navegador (usuarios, carrito, pedidos, reseñas). No hay backend todavía — si el profe pide
 persistencia real más adelante, esa parte queda para la carpeta `backend/`.
 
@@ -53,6 +60,10 @@ HuertoHogar/
 │       └── nosotros.html
 └── backend/                  → vacío por ahora, para cuando se valide requerimiento con servidor
 ```
+=======
+del navegador (usuarios, carrito, pedidos, reseñas). No hay backend todavía 
+
+>>>>>>> ee8fc079e15c67823c4f2d8e32e73e20e621dc5c
 
 ## Sobre las imágenes
 
@@ -62,8 +73,12 @@ enunciado. El logo y la ilustración de la portada también son los oficiales de
 
 El catálogo quedó con los 7 productos que el documento detalla con ficha completa (foto,
 precio, stock y descripción): Manzanas Fuji, Naranjas Valencia, Plátanos Cavendish, Zanahorias
+<<<<<<< HEAD
 Orgánicas, Espinacas Frescas, Pimientos Tricolores y Miel Orgánica. Por eso también saqué el
 filtro de "Productos Lácteos": sin Leche Entera en el catálogo, esa categoría quedaba vacía.
+=======
+Orgánicas, Espinacas Frescas, Pimientos Tricolores y Miel Orgánica.
+>>>>>>> ee8fc079e15c67823c4f2d8e32e73e20e621dc5c
 
 ## Paleta y tipografía (según el caso)
 
@@ -82,5 +97,9 @@ HuertoHogar en vez de los colores azules por defecto.
 
 - Poner el link real del mapa embebido (Google My Maps) en `nosotros.html` — por ahora tiene
   un `src` de ejemplo que no apunta a nada.
+<<<<<<< HEAD
 - Ver con el profe si hay que sumar backend real (API + base de datos) para que los
   requerimientos de "más alcance" cuenten.
+=======
+
+>>>>>>> ee8fc079e15c67823c4f2d8e32e73e20e621dc5c
