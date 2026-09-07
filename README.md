@@ -37,5 +37,3 @@ HuertoHogar en vez de los colores azules por defecto.
 
 - Poner el link real del mapa embebido (Google My Maps) en `nosotros.html` — por ahora tiene
   un `src` de ejemplo que no apunta a nada.
-- Ver con el profe si hay que sumar backend real (API + base de datos) para que los
-  requerimientos de "más alcance" cuenten.
